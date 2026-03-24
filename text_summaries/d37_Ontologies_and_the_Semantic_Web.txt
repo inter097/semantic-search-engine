@@ -1,0 +1,1 @@
+Summary: Reusing existing ontologies can accelerate the development process and ensure consistency with recognized standards.

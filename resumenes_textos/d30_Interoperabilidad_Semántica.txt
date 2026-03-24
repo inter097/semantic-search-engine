@@ -1,0 +1,1 @@
+Resumen: Las ontologías permiten la realización de búsquedas semánticas más efectivas, mejorando la recuperación de información relevante en bases de datos médicas.

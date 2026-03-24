@@ -1,0 +1,1 @@
+Summary: Semantic interoperability is a key challenge that medical ontologies aim to address, ensuring that different systems understand and use data consistently.

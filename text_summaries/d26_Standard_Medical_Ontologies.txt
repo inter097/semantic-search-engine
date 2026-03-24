@@ -1,0 +1,1 @@
+Summary: Tools like Protégé are widely used for developing and managing ontologies in the medical field.

@@ -1,0 +1,1 @@
+Summary: Collaboration between domain experts and developers is essential to create accurate and useful medical ontologies.

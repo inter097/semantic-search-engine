@@ -1,0 +1,1 @@
+Summary: Ontologies can be integrated with emerging technologies like the semantic web and open data services to drive innovation in healthcare.

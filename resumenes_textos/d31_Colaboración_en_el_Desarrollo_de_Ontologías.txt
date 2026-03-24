@@ -1,0 +1,1 @@
+Resumen: La interoperabilidad semántica es un desafío clave que las ontologías médicas buscan resolver, asegurando que los diferentes sistemas comprendan y utilicen los datos de manera consistente.

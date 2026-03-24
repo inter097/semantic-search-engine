@@ -1,0 +1,1 @@
+Resumen: Una ontología bien diseñada puede soportar aplicaciones como la toma de decisiones clínicas, el diagnóstico asistido por computadora y la investigación biomédica.

@@ -1,0 +1,1 @@
+Summary: Ontologies support the implementation of data standards in clinical research and epidemiological studies.

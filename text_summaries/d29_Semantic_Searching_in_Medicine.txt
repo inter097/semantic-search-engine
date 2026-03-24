@@ -1,0 +1,1 @@
+Summary: Integrating ontologies into Electronic Health Record (EHR) systems can improve the accuracy and efficiency of clinical documentation.

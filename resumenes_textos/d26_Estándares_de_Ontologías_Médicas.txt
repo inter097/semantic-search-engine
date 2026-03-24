@@ -1,0 +1,1 @@
+Resumen: Herramientas como Protégé son ampliamente utilizadas para el desarrollo y gestión de ontologías en el ámbito médico.

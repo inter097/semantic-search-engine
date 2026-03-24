@@ -1,0 +1,1 @@
+Resumen: Las ontologías en medicina son representaciones estructuradas de conocimiento que facilitan la integración y el intercambio de información entre sistemas de salud.

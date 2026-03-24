@@ -1,0 +1,1 @@
+Summary: Version management is important in creating medical ontologies to keep the knowledge representation up-to-date over time.

@@ -1,0 +1,1 @@
+Summary: The ontology creation process includes requirement gathering, concept modeling, validation, and ongoing maintenance.

@@ -1,0 +1,1 @@
+Summary: Ontologies enable more effective semantic searches, enhancing the retrieval of relevant information in medical databases.

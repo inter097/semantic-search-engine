@@ -1,0 +1,1 @@
+Resumen: La semántica compartida que ofrecen las ontologías facilita la comprensión y el análisis de datos heterogéneos provenientes de diferentes fuentes.

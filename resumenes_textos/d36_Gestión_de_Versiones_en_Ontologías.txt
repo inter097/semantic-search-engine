@@ -1,0 +1,1 @@
+Resumen: La calidad y la usabilidad de una ontología médica dependen de su capacidad para representar fielmente el conocimiento y las relaciones dentro del dominio.

@@ -1,0 +1,1 @@
+Summary: Medical ontologies are structured representations of knowledge that facilitate the integration and exchange of information among health systems.

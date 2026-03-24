@@ -1,0 +1,1 @@
+Resumen: Las ontologías facilitan la implementación de estándares de datos en investigaciones clínicas y estudios epidemiológicos.

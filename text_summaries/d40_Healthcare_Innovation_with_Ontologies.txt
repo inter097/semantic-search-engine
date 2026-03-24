@@ -1,0 +1,1 @@
+Summary: Impact analysis of medical ontologies allows evaluation of how they contribute to improving care quality and clinical process efficiency.

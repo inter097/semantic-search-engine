@@ -1,0 +1,1 @@
+Summary: The quality and usability of a medical ontology depend on its ability to faithfully represent knowledge and relationships within the domain.

@@ -1,0 +1,1 @@
+Resumen: La gestión de versiones es importante en la creación de ontologías médicas para mantener actualizada la representación del conocimiento a lo largo del tiempo.

@@ -1,0 +1,1 @@
+Resumen: La reutilización de ontologías existentes puede acelerar el proceso de desarrollo y asegurar la coherencia con estándares reconocidos.

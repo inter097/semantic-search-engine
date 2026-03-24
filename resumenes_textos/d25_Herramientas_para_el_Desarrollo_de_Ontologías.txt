@@ -1,0 +1,1 @@
+Resumen: El proceso de creación de una ontología médica incluye la recolección de requisitos, la modelización de conceptos, la validación y el mantenimiento continuo.

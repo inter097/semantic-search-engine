@@ -1,0 +1,1 @@
+Summary: The use of ontologies in medicine aids the development of artificial intelligence and machine learning by providing clear and well-defined knowledge structures.

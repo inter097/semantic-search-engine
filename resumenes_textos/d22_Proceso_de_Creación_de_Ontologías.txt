@@ -1,0 +1,1 @@
+Resumen: La creación de una ontología médica implica definir conceptos, relaciones y reglas que reflejan el dominio de la salud y la medicina de manera precisa y coherente.

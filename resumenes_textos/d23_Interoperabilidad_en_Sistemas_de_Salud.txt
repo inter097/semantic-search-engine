@@ -1,0 +1,1 @@
+Resumen: Las ontologías permiten mejorar la interoperabilidad entre sistemas electrónicos de salud, facilitando el acceso y análisis de datos clínicos.

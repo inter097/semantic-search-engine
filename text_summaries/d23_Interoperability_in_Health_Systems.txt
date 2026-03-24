@@ -1,0 +1,1 @@
+Summary: Ontologies enhance interoperability between electronic health systems, enabling easier access and analysis of clinical data.

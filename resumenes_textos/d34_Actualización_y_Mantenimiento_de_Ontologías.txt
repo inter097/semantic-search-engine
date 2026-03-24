@@ -1,0 +1,1 @@
+Resumen: El uso de ontologías en medicina apoya el desarrollo de inteligencia artificial y aprendizaje automático al proporcionar estructuras de conocimiento claras y bien definidas.

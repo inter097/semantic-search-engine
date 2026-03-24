@@ -1,0 +1,1 @@
+Summary: Creating a medical ontology involves defining concepts, relationships, and rules that accurately and coherently reflect the health and medical domain.

@@ -1,0 +1,1 @@
+Summary: Shared semantics offered by ontologies facilitate the understanding and analysis of heterogeneous data from different sources.

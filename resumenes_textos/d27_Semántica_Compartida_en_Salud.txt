@@ -1,0 +1,1 @@
+Resumen: Las ontologías médicas estándar, como SNOMED CT y el ICD, proporcionan una base común para la codificación y el intercambio de información clínica.

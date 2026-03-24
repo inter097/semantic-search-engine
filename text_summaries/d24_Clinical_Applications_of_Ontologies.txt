@@ -1,0 +1,1 @@
+Summary: A well-designed ontology can support applications such as clinical decision-making, computer-assisted diagnosis, and biomedical research.

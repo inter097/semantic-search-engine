@@ -1,0 +1,19 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.decomposition import TruncatedSVD
+
+# Calculamos la SVD truncada
+svd = TruncatedSVD(n_components=min(df.shape) - 1)
+svd.fit(df)
+
+# Calculamos la varianza explicada acumulada
+var_acumulada = np.cumsum(svd.explained_variance_ratio_)
+
+# Graficamos la varianza explicada
+plt.plot(range(1, len(var_acumulada) + 1), var_acumulada, marker='o')
+plt.axhline(y=0.9, color='r', linestyle='--', label="90% Varianza")
+plt.xlabel('Número de Componentes (k)')
+plt.ylabel('Varianza Explicada Acumulada')
+plt.title('Selección de k en SVD')
+plt.legend()
+plt.show()
